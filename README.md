@@ -5,6 +5,11 @@
 
 You can use this script to get the location of any IP address. For example, if you wanted to get the location of my IP address, you would run the script like this:
 
+# Clone repository
+git clone https://github.com/herrve/iploocation
+
+cd /iploocation
+
 # Code snippet
 python ip_location.py
 
