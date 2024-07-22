@@ -1,4 +1,4 @@
-# iploocation
+# ip-location
  a Python script that you can use to get the location of an IP address
 
  This script uses the ipapi.co API to get the location of an IP address. The API provides a variety of information about an IP address, including the country, region, city, latitude, and longitude. The script simply requests the JSON data from the API and then prints the location information to the console.
